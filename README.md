@@ -1,4 +1,4 @@
-# Convert PDF to PNG
+#pdf2png
 
 Converts a pdf to a single or multiple images.
 
